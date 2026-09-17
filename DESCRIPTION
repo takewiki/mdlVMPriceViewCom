@@ -1,7 +1,7 @@
 Package: mdlVMPriceViewCom
 Type: DMS
 Title: mdlVMPriceViewCom mudule for reshape data solutions.
-Version: 1.0.0
+Version: 1.0.1
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: user interface element for ui elements,latout and actions,

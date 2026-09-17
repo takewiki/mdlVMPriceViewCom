@@ -11,9 +11,9 @@ tabItem(tabName = "mdlVMPriceViewCom",
                                     #uiComponent seperated by comma (,)
                                     
                                     mdlVMPriceViewUI::OrderPriceUI(),
-                                    
-                                    
-                                    mdlVMPriceViewUI::InvoicePriceUI()
+                                    mdlVMPriceViewUI::InvoicePriceUI(),
+                                    mdlVMPriceViewUI::PurPriceManagementUI(),
+                                    mdlVMPriceViewUI::LatestAccountPriceUI()
                                      
                                     
                                     
