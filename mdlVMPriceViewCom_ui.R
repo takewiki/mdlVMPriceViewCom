@@ -10,8 +10,8 @@ tabItem(tabName = "mdlVMPriceViewCom",
                                     #begin----
                                     #uiComponent seperated by comma (,)
                                     
-                                    mdlVMPriceViewUI::OrderPriceUI(),
-                                    mdlVMPriceViewUI::InvoicePriceUI(),
+                                    # mdlVMPriceViewUI::OrderPriceUI(),
+                                    # mdlVMPriceViewUI::InvoicePriceUI(),
                                     mdlVMPriceViewUI::PurPriceManagementUI(),
                                     mdlVMPriceViewUI::LatestAccountPriceUI()
                                      
